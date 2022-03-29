@@ -25,8 +25,8 @@
 
     <ListView
         android:id="@+id/skillList"
-        android:layout_width="409dp"
-        android:layout_height="582dp"
+        android:layout_width="413dp"
+        android:layout_height="628dp"
 
         android:paddingTop="28dp"
         android:textStyle="bold"
