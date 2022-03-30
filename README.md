@@ -2,6 +2,9 @@
 
 This is an android app that uses linked in api to retrieve shared skills among people in the same profession.This in turn helps job seekers to equip themselves with the same.
 
+## Demo
+Download the app using this link:
+[https://ufile.io/zix0g8iq](https://ufile.io/zix0g8iq)
 
 ## Getting Started
 
@@ -14,7 +17,7 @@ The following Steps will take you through the application Installation Process.
 - Android Studio
 - Android Virtual Device or Android Phone
 
-### Install
+### Clone
 
 Clone the repository using the following command:
 ```
